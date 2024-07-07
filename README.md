@@ -13,7 +13,7 @@ This project is a responsive dashboard interface built using HTML, CSS (with Tai
 
 ## Demo
 
-You can view a live demo of the dashboard [here](#). *(Replace with link if applicable)*
+https://dazzling-faloodeh-0cefea.netlify.app/
 
 ## Screenshots
 
@@ -21,10 +21,10 @@ You can view a live demo of the dashboard [here](#). *(Replace with link if appl
 
 1. **Clone the repository:**
 
-   ```bash
+   ```sh
    git clone https://github.com/syedfarhanreza/dashboard.git 
 
 2. Navigate to the project directory:
-   ```bash
+   ```sh
    cd dashboard
 3. Open index.html in your web browser.
